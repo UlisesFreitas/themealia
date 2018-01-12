@@ -1,0 +1,2 @@
+# themealia
+Multipurpose WordPress Theme
